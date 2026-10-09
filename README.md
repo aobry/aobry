@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I'm exploring the Cybersecurity and AI fields through hands-on projects and workshops.
+
+
 <!--
 **aobry/aobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
